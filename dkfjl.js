@@ -1,1 +1,1 @@
-echo "hfi how are you";
+echo "hi how are you";
